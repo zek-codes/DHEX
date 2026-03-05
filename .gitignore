@@ -1,0 +1,19 @@
+# Python byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Test cache
+.pytest_cache/
+
+# Data file generated at runtime
+dhex_data.json
+
+# Virtual environments
+.venv/
+venv/
+env/
